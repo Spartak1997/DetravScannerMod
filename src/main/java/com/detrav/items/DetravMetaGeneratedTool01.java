@@ -306,9 +306,9 @@ public class DetravMetaGeneratedTool01 extends GT_MetaGenerated_Tool {
         list.add(dStack);
         dStack = getToolWithStats(2,1,Materials.Bronze,Materials.Steel, null);
         list.add(dStack);
-        dStack = getToolWithStats(4,1,Materials.Manyullyn,Materials.Aluminium, null);
+        dStack = getToolWithStats(4,1,Materials.DarkSteel,Materials.Aluminium, null);
         list.add(dStack);
-        dStack = getToolWithStats(6,1,Materials.DamascusSteel,Materials.DamascusSteel, null);
+        dStack = getToolWithStats(6,1,Materials.StainlessSteel,Materials.StainlessSteel, null);
         list.add(dStack);
         dStack = getToolWithStats(8,1,Materials.Titanium,Materials.Titanium, null);
         list.add(dStack);
@@ -318,11 +318,11 @@ public class DetravMetaGeneratedTool01 extends GT_MetaGenerated_Tool {
         list.add(dStack);
         dStack = getToolWithStats(12,1,Materials.Osmium,Materials.Osmium, null);
         list.add(dStack);
-        dStack = getToolWithStats(14,1,Materials.Neutronium,Materials.Neutronium, null);
+        dStack = getToolWithStats(14,1,Materials.Americium,Materials.Americium, null);
         list.add(dStack);
-        dStack = getToolWithStats(16,1,Materials.InfinityCatalyst,Materials.InfinityCatalyst, null);
+        dStack = getToolWithStats(16,1,Materials.Infuscolium,Materials.Infuscolium, null);
         list.add(dStack);
-        dStack = getToolWithStats(18,1,Materials.Infinity,Materials.Infinity, null);
+        dStack = getToolWithStats(18,1,Materials.Neutronium,Materials.Neutronium, null);
         list.add(dStack);
         
         //Steel for comparison
@@ -351,13 +351,13 @@ public class DetravMetaGeneratedTool01 extends GT_MetaGenerated_Tool {
         dStack = getToolWithStats(100, 1, Materials.Iridium, Materials.TungstenSteel, new long[]{102400000L, GT_Values.V[6], 6L, -1L});
         setCharge(dStack,102400000L);
         list.add(dStack);
-        dStack = getToolWithStats(102, 1, Materials.Neutronium, Materials.TungstenSteel, new long[]{409600000L, GT_Values.V[7], 7L, -1L});
+        dStack = getToolWithStats(102, 1, Materials.Americium, Materials.TungstenSteel, new long[]{409600000L, GT_Values.V[7], 7L, -1L});
         setCharge(dStack,409600000L);
         list.add(dStack);
-        dStack = getToolWithStats(104, 1, Materials.InfinityCatalyst, Materials.TungstenSteel, new long[]{1638400000L, GT_Values.V[8], 8L, -1L});
+        dStack = getToolWithStats(104, 1, Materials.Infuscolium, Materials.TungstenSteel, new long[]{1638400000L, GT_Values.V[8], 8L, -1L});
         setCharge(dStack,1638400000L);
         list.add(dStack);
-        dStack = getToolWithStats(106, 1, Materials.Infinity, Materials.TungstenSteel, new long[]{6553600000L, GT_Values.V[9], 9L, -1L});
+        dStack = getToolWithStats(106, 1, Materials.Neutronium, Materials.TungstenSteel, new long[]{6553600000L, GT_Values.V[9], 9L, -1L});
         setCharge(dStack,6553600000L);
         list.add(dStack);
 
